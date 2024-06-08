@@ -43,6 +43,7 @@ The requirements were as follows:
 The index.html, samples.json and the apps.js file within the static folder, are in the main branch of this repository.
 
 The app has been deployed to gitHub Pages via the following link:
+https://andreanimako.github.io/belly-button-challenge/ 
 
 
 

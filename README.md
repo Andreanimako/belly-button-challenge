@@ -40,7 +40,7 @@ The requirements were as follows:
 
 6.Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
-The index.html, apps.js and samples.json files are in the main branch of this repository.
+The index.html, samples.json and the apps.js file within the static folder, are in the main branch of this repository.
 
 The app has been deployed to gitHub Pages via the following link:
 

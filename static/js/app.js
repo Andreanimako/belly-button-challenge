@@ -68,7 +68,7 @@ function buildCharts(sample) {
 
     
     // Render the Bubble Chart
-    Plotly.newPlot('bubble', bubbleData, bubbleLayout);
+    Plotly.newPlot('bubble', bubbleData, bubbleLayout)
 
 
     // For the Bar Chart, map the otu_ids to a list of strings for your yticks
@@ -117,7 +117,6 @@ function buildCharts(sample) {
 }
 
 
-
 // Function to run on page load
 function init() {
   d3.json("https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json").then((data) => {
@@ -146,7 +145,7 @@ function init() {
   });
 }
 
-// Function for event listener
+// Function for event listener 
 function optionChanged(newSample) {
   // Build charts and metadata panel each time a new sample is selected
   
